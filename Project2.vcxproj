@@ -153,6 +153,7 @@
     <ClCompile Include="11结构体读写二进制文件.c" />
     <ClCompile Include="12大文件拷贝.c" />
     <ClCompile Include="二级指针练习.c" />
+    <ClCompile Include="14入侵LinuxFTP服务器.c" />
     <ClCompile Include="内存操作函数.c" />
     <ClCompile Include="打字游戏.c" />
     <ClCompile Include="04文件练习.c" />

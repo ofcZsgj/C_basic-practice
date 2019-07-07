@@ -1,0 +1,11 @@
+ftp> open 192.168.137.134
+连接到 192.168.137.134。
+220 (vsFTPd 3.0.3)
+200 Always in UTF8 mode.
+ftp> user
+用户名 zsgj
+331 Please specify the password.
+
+530 Login incorrect.
+ftp> bye
+221 Goodbye.
