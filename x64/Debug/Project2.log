@@ -1,0 +1,12 @@
+﻿  二级指针练习.c
+  内存操作函数.c
+  打字游戏.c
+D:\Studies\C\test\vs_test\Project2\打字游戏.c(41,26): warning C4244:  “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  文件练习.c
+D:\Studies\C\test\vs_test\Project2\打字游戏.c(52,22): warning C4244:  “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Studies\C\test\vs_test\Project2\文件练习.c(17,19): warning C4129:  “S”: 不可识别的字符转义序列
+D:\Studies\C\test\vs_test\Project2\文件练习.c(17,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message : D:\Studies\C\test\vs_test\Project2\内存操作函数.c(75) : warning C4716: “main01”: 必须返回一个值
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message : D:\Studies\C\test\vs_test\Project2\二级指针练习.c(40) : warning C4716: “main02”: 必须返回一个值
